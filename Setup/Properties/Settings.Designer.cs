@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace UnitedPackage.Properties
+namespace Setup.Properties
 {
 
 
